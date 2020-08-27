@@ -16,6 +16,6 @@ https://text-symbols.com/ascii-art/
   * Date
   * Inside the main method of your program use block quotes to write a comment that describes the ascii art you created.
 
-- [ ] Once you have completed the above be sure to push your changes to your AP Computer Science A Repo to GitHub
+- [ ] Once you have completed the above be sure to push your changes to github
 
 ## Feedback
