@@ -1,6 +1,6 @@
 # Lab1HelloWorld
 
-## Your Tasks
+## Code Challenge
 
 - [ ] Write a program that prints an ascii art to the console. Follow this link to get some inspiration,
 https://text-symbols.com/ascii-art/
