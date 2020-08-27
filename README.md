@@ -1,5 +1,9 @@
 # Lab1HelloWorld
 
+## Introduction
+
+In this lab you will learn how to write your first java program
+
 ## Code Challenge
 
 - [ ] Write a program that prints an ascii art to the console. Follow this link to get some inspiration,
